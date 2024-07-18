@@ -1,0 +1,89 @@
+[
+  {
+    "address": "0x9dbd6Bb8cD5F9aB9d7B66Dd41805BEE41d61A7F6",
+    "label": "CryptoPunks",
+    "key": "CRYPTOPUNKS",
+    "imageBaseUrl": "https://cdn.jpegd.io/collections/punks",
+    "logoUrl": "https://github.com/jpegd/p2p-collection-list/blob/main/logos/CRYPTOPUNKS.png?raw=true",
+    "enabled": true,
+    "isERC721": false,
+    "osSlug": "cryptopunks"
+  },
+  {
+    "address": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+    "label": "BAYC",
+    "key": "BAYC",
+    "imageBaseUrl": "https://cdn.jpegd.io/collections/bayc",
+    "logoUrl": "https://github.com/jpegd/p2p-collection-list/blob/main/logos/BAYC.png?raw=true",
+    "enabled": true,
+    "isERC721": true,
+    "osSlug": "boredapeyachtclub",
+    "blurSlug": "boredapeyachtclub"
+  },
+  {
+    "address": "0xBd3531dA5CF5857e7CfAA92426877b022e612cf8",
+    "label": "Pudgy Penguin",
+    "key": "PUDGYPENGUINS",
+    "imageBaseUrl": "https://cdn.jpegd.io/collections/pudgypenguins",
+    "logoUrl": "https://cdn.jpegd.io/static/logos/PENGUINS.png",
+    "enabled": true,
+    "isERC721": true,
+    "osSlug": "pudgypenguins",
+    "blurSlug": "pudgypenguins"
+  },
+  {
+    "label": "Milady",
+    "key": "MILADY",
+    "address": "0x5Af0D9827E0c53E4799BB226655A1de152A425a5",
+    "imageBaseUrl": "https://cdn.jpegd.io/collections/milady",
+    "logoUrl": "https://cdn.jpegd.io/static/logos/MILADY.png",
+    "enabled": true,
+    "isERC721": true,
+    "osSlug": "milady",
+    "blurSlug": "milady"
+  },
+  {
+    "label": "MAYC",
+    "key": "MAYC",
+    "address": "0x60E4d786628Fea6478F785A6d7e704777c86a7c6",
+    "imageBaseUrl": "https://cdn.jpegd.io/collections/mayc",
+    "logoUrl": "https://cdn.jpegd.io/static/logos/MAYC.png",
+    "enabled": true,
+    "isERC721": true,
+    "osSlug": "mutant-ape-yacht-club",
+    "blurSlug": "mutant-ape-yacht-club"
+  },
+  {
+    "label": "BAKC",
+    "key": "BAKC",
+    "address": "0xba30E5F9Bb24caa003E9f2f0497Ad287FDF95623",
+    "imageBaseUrl": "https://cdn.jpegd.io/collections/bakc",
+    "logoUrl": "https://cdn.jpegd.io/static/logos/BAKC.png",
+    "enabled": true,
+    "isERC721": true,
+    "osSlug": "bored-ape-kennel-club",
+    "blurSlug": "bored-ape-kennel-club"
+  },
+  {
+    "label": "Azuki",
+    "key": "AZUKI",
+    "address": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+    "imageBaseUrl": "https://cdn.jpegd.io/collections/azuki",
+    "logoUrl": "https://cdn.jpegd.io/static/logos/AZUKI.png",
+    "enabled": true,
+    "isERC721": true,
+    "osSlug": "azuki",
+    "blurSlug": "azuki"
+  },
+  {
+    "label": "Doodles",
+    "key": "DOODLES",
+    "address": "0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e",
+    "imageBaseUrl": "https://cdn.jpegd.io/collections/doodles",
+    "logoUrl": "https://cdn.jpegd.io/static/logos/DOODLES.png",
+    "enabled": true,
+    "isERC721": true,
+    "osSlug": "doodles-official",
+    "blurSlug": "doodles-official"
+  }
+]
