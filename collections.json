@@ -4,7 +4,7 @@
     "label": "CryptoPunks",
     "key": "CRYPTOPUNKS",
     "imageBaseUrl": "https://cdn.jpegd.io/collections/punks",
-    "logoUrl": "https://github.com/jpegd/p2p-collection-list/blob/main/logos/CRYPTOPUNKS.png?raw=true",
+    "logoUrl": "https://cdn.jpegd.io/static/logos/CRYPTOPUNKS.png",
     "enabled": true,
     "isERC721": false,
     "osSlug": "cryptopunks"
@@ -14,7 +14,7 @@
     "label": "BAYC",
     "key": "BAYC",
     "imageBaseUrl": "https://cdn.jpegd.io/collections/bayc",
-    "logoUrl": "https://github.com/jpegd/p2p-collection-list/blob/main/logos/BAYC.png?raw=true",
+    "logoUrl": "https://cdn.jpegd.io/static/logos/BAYC.png",
     "enabled": true,
     "isERC721": true,
     "osSlug": "boredapeyachtclub",
